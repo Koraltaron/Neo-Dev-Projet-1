@@ -39,14 +39,14 @@ Page Match :
 ![image](https://github.com/user-attachments/assets/7ed08faf-3aab-47a4-ace6-8d601f79c83e)
 ![image](https://github.com/user-attachments/assets/224a988b-fc50-44dc-8839-a398cdeed6d6)
 
-Mobile version : 
+
+Mobile version :
+
 ![image](https://github.com/user-attachments/assets/a575af18-bb75-4178-99f1-863daf3b5f85)
 ![image](https://github.com/user-attachments/assets/fca74d0c-fa67-4c65-8402-7fb1b02b2a61)
 ![image](https://github.com/user-attachments/assets/d25eb2bb-b1ef-40a8-9f9a-6e343ae836fe)
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c2a873df-3a13-4551-9566-aef1b1bdff00)
 
-Perspectives : 
 
 Project team members :
 <ul>
