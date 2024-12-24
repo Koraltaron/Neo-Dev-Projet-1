@@ -24,18 +24,44 @@ Screenshots :
 Desktop version :
 
 Page Accueil : 
+![image](https://github.com/user-attachments/assets/209a38aa-c218-4cc4-83f4-98a37e067e2f)
+![image](https://github.com/user-attachments/assets/ffb6b74a-ceba-4d4c-974f-52661ff64e6e)
 
 Page Form : 
+![image](https://github.com/user-attachments/assets/0b2090ee-b452-4538-a791-554aa8965ef2)
+![image](https://github.com/user-attachments/assets/2c77ab8c-4748-46ea-b51f-986288c7eb90)
+![image](https://github.com/user-attachments/assets/077cf366-9048-4cca-b416-c89b6ef9d9f7)
 
 Page Main : 
+![image](https://github.com/user-attachments/assets/5eac846b-763b-4ebb-99f3-bf906f41b547)
 
 Page Match : 
+![image](https://github.com/user-attachments/assets/7ed08faf-3aab-47a4-ace6-8d601f79c83e)
+![image](https://github.com/user-attachments/assets/224a988b-fc50-44dc-8839-a398cdeed6d6)
+
+Mobile version : 
+![image](https://github.com/user-attachments/assets/a575af18-bb75-4178-99f1-863daf3b5f85)
+![image](https://github.com/user-attachments/assets/fca74d0c-fa67-4c65-8402-7fb1b02b2a61)
+![image](https://github.com/user-attachments/assets/d25eb2bb-b1ef-40a8-9f9a-6e343ae836fe)
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 Perspectives : 
 
-Project team members : 
-<a href="https://github.com/alicepgrd" alt="towards Alice's GitHub">Alice<a/>
-<a href="https://github.com/naiiipan44" alt="towards Naïma's GitHub">Naïma<a/>
-<a href="https://github.com/CyrusWeir">Cyrus Weir</a>
+Project team members :
+<ul>
+  <li>
+    <a href="https://github.com/alicepgrd" alt="towards Alice's GitHub">Alice<a/>
+  </li>
+  <li>
+    <a href="https://github.com/naiiipan44" alt="towards Naïma's GitHub">Naïma<a/> 
+  </li>
+  <li>
+    <a href="https://github.com/CyrusWeir">Cyrus Weir</a>
+  </li>
+</ul>
+
+
+
   
 
