@@ -22,26 +22,9 @@ previewImages.style.backgroundImage = slide1;
 
 previewImages.addEventListener("click", function () {
   setTimeout(function () {
-    window.location.href = "/main-page.html";
+    window.location.href = "/index.html";
   }, 1000)
 });
-
-//like/dislike button behaviours
-// likeButton.addEventListener("click", function () {
-//   console.log("works");
-//   likeButton.src = "/assets/images/likeGreenSvg.svg"
-//   setTimeout(function () {
-//     window.location.href = "/main-page.html";
-//   }, 1000)
-// })
-
-// dislikeButton.addEventListener("click", function () {
-//   console.log("works also")
-//   dislikeButton.src = "/assets/images/dislikeBlueSvg.svg"
-//   setTimeout(function () {
-//     window.location.href = "/main-page.html";
-//   }, 1000)
-// })
 
 //hide button
 hideButton.addEventListener("click", function () {
